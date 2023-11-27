@@ -8,7 +8,7 @@ const { subtitle } = storeToRefs(pomodoroStore);
 
 <template>
   <div class="pomodoro__display">
-    <h1 class="pomodoro__display__title-text">Pomodoro Clock</h1>
+    <h1 class="pomodoro__display__title-text">Pomodoro App</h1>
     <h3 class="pomodoro__display__subtitle-text">
       {{ subtitle }}
     </h3>
