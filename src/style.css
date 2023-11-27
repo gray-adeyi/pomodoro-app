@@ -1,0 +1,15 @@
+:root {
+  --app-bg: #ff3e13; /* #fc3d12ff; */
+  --app-height: 600px;
+  --app-width: 800px;
+  --app-border-radius: 10px;
+  --app-display-text-color: rgb(102, 23, 5);
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
