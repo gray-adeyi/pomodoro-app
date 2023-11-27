@@ -61,5 +61,13 @@ const secondsRemainingUnit = computed(
     font-family: "Dela Gothic One", sans-serif;
     font-size: 5rem;
   }
+
+  &__minutes-seconds-separator {
+    color: #666666ff;
+  }
+
+  &__seconds-unit {
+    color: #ff7a5cff;
+  }
 }
 </style>
